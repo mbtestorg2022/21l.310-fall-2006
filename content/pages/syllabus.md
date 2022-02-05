@@ -32,24 +32,200 @@ Frequent quizzes; short final exercise.
 Grades
 ------
 
-| ACTIVITIES | WEIGHTS |
-| --- | --- |
-| In class work, including seminar skills | 2/3 |
-| Written work, quizzes, and exam | 1/3 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In class work, including seminar skills
+{{< tdclose >}}
+{{< tdopen >}}
+2/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written work, quizzes, and exam
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| Lec # | Topics |
-| --- | --- |
-| 1 | High Art, Hermenutics, Detection, and Suspense  {{< br >}}  {{< br >}}Modes: Oedipus and Theseus  {{< br >}}  {{< br >}}Typology: The Hidden Treasure, The Locked Room, the Detective-as-Suspect |
-| 2 | Nature and Hieroglyphics  {{< br >}}  {{< br >}}Ideograms  {{< br >}}  {{< br >}}Cryptography as Process and as Metaphor |
-| 3 | Doubling  {{< br >}}  {{< br >}}Self-Consciousness as Method and Disguise  {{< br >}}  {{< br >}}Materialism, Claustrophobic Homes, Locked Rooms |
-| 4 | Materialism and Identity  {{< br >}}  {{< br >}}The Advantages of Empiricism are the Disadvantages of Empiricism  {{< br >}}  {{< br >}}Why Conan Doyle Killed Off Holmes to Write about Victorian Faeries |
-| 5 | Self and Self-Revelation  {{< br >}}  {{< br >}}Oedipal Resistances  {{< br >}}  {{< br >}}Retrospective Narratives |
-| 6 | The Position of the Observer  {{< br >}}  {{< br >}}Small Town, Country House, Sexual Demimonde, Moving Train |
-| 7 | McGuffins, Clewes, Histories  {{< br >}}  {{< br >}}The Detective as Knight Errant  {{< br >}}  {{< br >}}Film Noir as Style and as Moral Orientation |
-| 8 | Deep Focus  {{< br >}}  {{< br >}}Politics and Representation  {{< br >}}  {{< br >}}Does Rosebud Even Matter?  {{< br >}}  {{< br >}}Kane's Women |
-| 9 | Doubling and the Mind-Body Nexus  {{< br >}}  {{< br >}}Completing Dupin  {{< br >}}  {{< br >}}The Double-Mirror Paradigm of Self-Consciousness  {{< br >}}  {{< br >}}Evidence, Clues, Solution: Elusive Pleasures |
-| 10 | Guilt and Transference  {{< br >}}  {{< br >}}The Pleasure of Looking through Other People's Windows  {{< br >}}  {{< br >}}The Secret in the Marsh: Coming Clean about Secrets |
-| 11 | The Hidden Jewels  {{< br >}}  {{< br >}}Doubling and Narcissism  {{< br >}}  {{< br >}}"The Mystery to a Solution"
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+High Art, Hermenutics, Detection, and Suspense  
+  
+Modes: Oedipus and Theseus  
+  
+Typology: The Hidden Treasure, The Locked Room, the Detective-as-Suspect
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Nature and Hieroglyphics  
+  
+Ideograms  
+  
+Cryptography as Process and as Metaphor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Doubling  
+  
+Self-Consciousness as Method and Disguise  
+  
+Materialism, Claustrophobic Homes, Locked Rooms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Materialism and Identity  
+  
+The Advantages of Empiricism are the Disadvantages of Empiricism  
+  
+Why Conan Doyle Killed Off Holmes to Write about Victorian Faeries
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Self and Self-Revelation  
+  
+Oedipal Resistances  
+  
+Retrospective Narratives
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Position of the Observer  
+  
+Small Town, Country House, Sexual Demimonde, Moving Train
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+McGuffins, Clewes, Histories  
+  
+The Detective as Knight Errant  
+  
+Film Noir as Style and as Moral Orientation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Deep Focus  
+  
+Politics and Representation  
+  
+Does Rosebud Even Matter?  
+  
+Kane's Women
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Doubling and the Mind-Body Nexus  
+  
+Completing Dupin  
+  
+The Double-Mirror Paradigm of Self-Consciousness  
+  
+Evidence, Clues, Solution: Elusive Pleasures
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Guilt and Transference  
+  
+The Pleasure of Looking through Other People's Windows  
+  
+The Secret in the Marsh: Coming Clean about Secrets
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The Hidden Jewels  
+  
+Doubling and Narcissism  
+  
+"The Mystery to a Solution"
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
