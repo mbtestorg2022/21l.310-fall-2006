@@ -100,7 +100,7 @@ Self-Consciousness as Method and Disguise
 Materialism, Claustrophobic Homes, Locked Rooms
 {{< tdclose >}}
 {{< tdopen >}}
-Poe, Edgar Allen. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Murders in the Rue Morgue (PDF)](https://americanenglish.state.gov/files/ae/resource_files/the_murders_in_the_rue_morgue.pdf)," "[The Purloined Letter](http://xroads.virginia.edu/~HYPER/POE/purloine.html)," "[The Raven](http://www.poemuseum.org/selected_works/the_raven.html)," and "[The Philosophy of Composition](http://www.eapoe.org/works/essays/philcomp.htm)." In _Tales of Terror and Detection._  
+Poe, Edgar Allen. "[Murders in the Rue Morgue (PDF)](https://americanenglish.state.gov/files/ae/resource_files/the_murders_in_the_rue_morgue.pdf)," "[The Purloined Letter](http://xroads.virginia.edu/~HYPER/POE/purloine.html)," "[The Raven](http://www.poemuseum.org/selected_works/the_raven.html)," and "[The Philosophy of Composition](http://www.eapoe.org/works/essays/philcomp.htm)." In _Tales of Terror and Detection._  
   
 _Ancillary Readings_  
   
